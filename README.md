@@ -84,6 +84,10 @@ Foram realizados testes das principais funcionalidades do sistema, incluindo:
 
 Projeto desenvolvido como parte do Projeto Integrado do curso de Análise e Desenvolvimento de Sistemas da UNIFEOB.
 
+## Integrantes
+
+**Nome:** Kathlein Clissean Torres de Souza
+**RA:** 25002397
 **Instituição:** UNIFEOB  
 **Curso:** Análise e Desenvolvimento de Sistemas  
 **Ano:** 2026
